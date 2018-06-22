@@ -1,5 +1,4 @@
-###################
-CiCOOL
+################### Sistem Informasi Dinas Lingkungan Hidup
 ###################
 
 **Feature**
@@ -24,13 +23,3 @@ CiCOOL
 - Jquery spectrum : https://github.com/bgrins/spectrum
 - Medium editor : https://github.com/yabwe/medium-editor
 
-**change log**
-
-v2.0.0
-- setting for default landing from page
-- fix bug loader on nginx
-- multiple file upload crud builder
-- add validation max item for multiple file
-- responsive table
-- export data to PDF
-- example chart
